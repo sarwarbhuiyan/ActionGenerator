@@ -3,7 +3,7 @@ package com.sematext.ag.event;
 import pl.solr.dm.types.ObjectDataType;
 
 /**
- * Implementation of <code>Event<code> which allows use more sophisticated record declaration.
+ * Implementation of <code>Event</code> which allows use more sophisticated record declaration.
  *  
  * @author negativ
  *

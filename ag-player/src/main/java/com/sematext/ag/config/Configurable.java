@@ -39,7 +39,7 @@ public abstract class Configurable {
   /**
    * Initializes configuration.
    * 
-   * @throws IOException
+   * throws IOException
    *           thrown when initialization error occurs
    */
   public void init() {
